@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">List_v2</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="okay">Okay</string>
+    <string name="confirmationDialog_tile">Done For The Day?</string>
+    <string name="confirmationDialog_message">This action will delete all tasks</string>
+    <string name="taskDialog_title">Edit Task</string>
+    <string name="taskDialog_hint">E.g. Go for a run</string>
+    <string name="taskFragment_message">Edit Task</string>
+    <string name="taskMenu_move">Move to Top</string>
+    <string name="errorDialog_title">Error</string>
+    <string name="channel_1_name">Task Reminders</string>
+    <string name="channel_1_description">Make a sound and pop on screen</string>
+
+
+    <string name="set_start_time">Set start time</string>
+    <string name="set_as_daily_task">Set this as a daily task</string>
+    <string name="set_as_weekday_task">Set this task only for weekdays</string>
+    <string name="set_as_weekend_task">Set this task only for weekends</string>
+    <string name="advanced">Advanced</string>
+    <string name="keep_start_time">Keep start time</string>
+    <string name="keep_daily_task">Keep this as a daily task</string>
+    <string name="this_time_has_already_been_set">This time has already been set by another task</string>
+    <string name="this_time_is_invalid">This time is invalid. Please wait until tomorrow, or after clicking the pink \'done\' button</string>
+    <string name="to_do">To-Do:</string>
+    <string name="done">DONE</string>
+    <string name="delete">DELETE</string>
+</resources>
