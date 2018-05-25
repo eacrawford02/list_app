@@ -117,7 +117,7 @@ public class MainActivity extends AppCompatActivity {
         protected String taskTextString;
         // Needed to cancel alarms
         protected PendingIntent notificationAlarmIntent;
-        //Provides a reference to the MainActivity & objects
+        //Provides a reference to the MainActivity objects
         public TextView percentageTextView;
         public FloatingActionButton doneButton;
 
